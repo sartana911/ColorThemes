@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Adwaita-maia
+Type=X-GNOME-Metatheme
+Comment=Adwaita Modified
+Encoding=UTF-8
+GtkTheme=Adwaita-maia
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
